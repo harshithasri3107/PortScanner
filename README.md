@@ -59,4 +59,3 @@ scanme.nmap.org
 OPEN scanme.nmap.org:22
 ```
 
----
